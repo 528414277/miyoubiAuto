@@ -2,7 +2,7 @@
 """
 在下面设置你的米游社Cookie
 """
-mysCookie = ''
+mysCookie = '_MHYUUID=357f717a-54d6-439e-a0c4-d83af24f8a35; DEVICEFP_SEED_ID=85092b700d4432c4; DEVICEFP_SEED_TIME=1694501109847; DEVICEFP=38d7f06a78f56; login_uid=315065630; login_ticket=hOpjqNbKFwKMQKOkFAo1ikLjBzIcGQT0ypjAEkxk'
 """
 以下内容不要改！！！
 """
